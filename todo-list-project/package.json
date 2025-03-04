@@ -1,0 +1,13 @@
+{
+    "name": "todo-list-project",
+    "version": "1.0.0",
+    "description": "Projeto de To-Do List em TypeScript",
+    "main": "dist/index.js",
+    "scripts": {
+      "build": "tsc",
+      "start": "node dist/index.js"
+    },
+    "devDependencies": {
+      "typescript": "^5.0.0"
+    }
+  }
